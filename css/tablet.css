@@ -1,0 +1,16 @@
+.product-cards--container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.plans--slider {
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.tables-container {
+  justify-content: center;
+  overflow-x: hidden;
+}
